@@ -1,10 +1,10 @@
 import './App.css';
-import RenderGlass from './BaiTapGlass/RenderGlass';
+import ExerciseCarStore from './ExerciseCarStore/ExerciseCarStore';
 
 function App() {
   return (
     <div className="App">
-      <RenderGlass />
+      <ExerciseCarStore />
     </div>
   );
 }
